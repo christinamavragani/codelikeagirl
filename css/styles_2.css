@@ -1,0 +1,35 @@
+body {
+  background-color:#ebe0eb;
+  text-align: center;
+}
+.mainathens {
+  padding-top: 20px;
+    font-family: 'Arsenal';font-size: 22px;
+}
+.headathens{
+  font-family: 'Allan';font-size: 40px;
+}
+.address_athens1{
+  font-size: 20px;
+}
+.mainathens_2{
+  padding-top: 60px;
+    font-family: 'Arsenal';font-size: 22px;
+}
+.address_athens2{
+  font-size: 20px;
+}
+.mainathens_3{
+  padding-top: 60px;
+    font-family: 'Arsenal';font-size: 22px;
+}
+.address_athens3{
+  font-size: 20px;
+}
+#athens3{
+  width: 630px;
+  height: 310px;
+}
+.backgroundathens{
+  background-image: url("../images/bg22.jpg");
+}

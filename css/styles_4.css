@@ -1,0 +1,33 @@
+.mainpatra{
+  padding-top: 20px;
+  font-family: 'Arsenal';font-size: 22px;
+}
+.images{
+  width: 630px;
+  height: 310px;
+}
+.address_patra1{
+  font-size: 20px;
+}
+.mainpatra2{
+  padding-top: 20px;
+  font-family: 'Arsenal';font-size: 22px;
+}
+.address_patra2{
+    font-size: 20px;
+}
+.mainpatra3{
+  padding-top: 200px;
+  font-family: 'Arsenal';font-size: 22px;
+}
+.address_patra3{
+  font-size: 20px;
+}
+.backgroundpatra{
+  background-image: url("../images/bg24.jpg");
+  text-align: center;
+
+}
+.headpatra{
+  font-family: 'Allan';font-size: 40px;
+}

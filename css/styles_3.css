@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+.headthessaloniki{
+  font-family: 'Allan';font-size: 40px;
+
+}
+.mainthessaloniki{
+  padding-top: 20px;
+    font-family: 'Arsenal';font-size: 22px;
+
+}
+.address_thessaloniki1{
+  font-size: 20px;
+}
+.images{
+  width: 630px;
+  height: 310px;
+}
+.mainthessaloniki_2{
+  padding-top: 20px;
+  font-family: 'Arsenal';font-size: 22px;
+
+}
+.address_thessaloniki2{
+  font-size: 20px;
+}
+.mainthessaloniki_3{
+  padding-top: 20px;
+  font-family: 'Arsenal';font-size: 22px;
+
+}
+.address_thessaloniki3{
+font-size: 20px;
+}
+.backgroundthessa{
+  background-image: url("../images/bg25.jpg");
+}
